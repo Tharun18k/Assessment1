@@ -1,0 +1,17 @@
+***************** Algorithm to find highest and Lowest marks *****************
+
+Student_marks is an array of student marks
+student_count = Student_marks.length
+max <- Student_marks [0]
+min <- Student_marks [0]
+
+for each value in Student_marks
+    if value > max
+        max = value
+    else if value < min
+        min = value
+
+print "Highest Mark: " min
+print "Lowest Mark: " max
+
+

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StudentMarks
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StudentMarks\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=marks\ mean
+comment1.target=double\ calculate_sd(int[],\ float)
+comment1.text=\ Method\ to\ calculate\ standard\ deviation\r\n\ @Inputs\ /\ arguments\ ->\ array,\ float\r\n\ @Output\ /\ return\ ->\ double\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

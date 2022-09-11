@@ -1,0 +1,19 @@
+***************** Algorithm to find Mean and Standard deviation *****************
+
+Student_marks is an array of student marks
+student_count = Student_marks.length
+total=0
+
+for each value in Student_marks
+   total = total +value
+ 
+mean = total/student_count 
+
+for each value in Student_marks
+   sd = sd + pow(value-mean, 2)
+  
+sd_result = sqrt(sd/student_count);
+ 
+
+print "Mean of Marks: " mean
+print "Standard Deviation: " sd_result
